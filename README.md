@@ -27,6 +27,8 @@ To create secrets on Github see linked [instructions](https://docs.github.com/en
 - building_name: The building name for booking. Use the first word (e.g., 'Jean') or hyphenate multi-word name (e.g., 'Jean-Talon').
 - floor: The floor acronym and number, e.g., 'JT01'.
 - workstation: The workstation number to reserve, e.g., '111'.
+- workstation_backup: WorkPoint-WorkStation-Backup, e.g., '222'.
+- advance_reservation: Book 4 weeks and one day ahead, e.g., 'True' , if not set, only 4 weeks.
 
 Example secret
 ```
