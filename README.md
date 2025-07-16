@@ -32,7 +32,7 @@ To create secrets on Github see linked [instructions](https://docs.github.com/en
 
 Example secret
 ```
---username=your_username --password=your_password --building_name=your-building --floor=XX01 --workstation=111
+--username=your_username --password=your_password --building_name=your-building --floor=XX01 --workstation=111 --workstation_backup=222
 ```
 
 ## Schedule In-Office Days
